@@ -1,4 +1,4 @@
-# Svelte + TS + Vite + TailWindCSS
+# 🎃 Svelte + TS + Vite + TailWindCSS
 
 - Svelte-ts와 Vite, TailWindCSS를 이용해서 간단한 TodoList를 만들었습니다.
 - 코드의 양이 굉장히 간소화되었고, CSS의 길이도 굉장히 줄었고, 빌드속도 역시 굉장히 빨랐습니다.
@@ -6,7 +6,7 @@
 
 <br />
 
-## 기술스택
+## 🔧 기술스택
 
 <div>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
@@ -16,7 +16,7 @@
   
 <br />
 
-## 고민한 점
+## 📌 고민한 점
 
 - Svelte-TS와 TailWindCSS를 연결하는 데에 시간을 많이 사용했습니다.
 
